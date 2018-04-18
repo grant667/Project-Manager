@@ -1,10 +1,55 @@
 This file contains project brainstorming output.
-Brainstorm sessions are branches usin the following template.
+Brainstorm sessions are branches using the following template.
+A List of Branches below template.
 
 ***********************************************
-date / topic 
+ID / date / topic 
 -----------------------------------------------
 ideas <>
 -----------------------------------------------
 followups and edits
 ***********************************************
+
+1 - Sound 
+2 - 2d Game 
+3 - UI 
+4 - Bookmarks / Web Nav
+5 - SVG Coloring Book
+
+
+***********************************************
+01 / 4/18/18 / Sound Management
+-----------------------------------------------
+My vision for sound interaction is sound modual classes which handle a specific area in sound management.
+
+    MAIN COMPONENTS
+- Sound Player (tiny and full versions)
+- DJ (playlists, mixing, sequencing)
+- Dub Man (effects and filter control)
+- SoundBoi (EQ and other sound levels)
+- EyeC (visual audio manager, graphical output)
+
+    Modules
+- BreakBOi (loops)
+- BoomClap (beat maker)
+- SynthBoi (keys)
+- BassBoi (bass maker)
+- SoundNerd (sonic utils)
+  - Librarian (stores everything about sound)
+- DubPLateBoi (stopping here)
+-----------------------------------------------
+followups and edits
+***********************************************
+
+
+
+***********************************************
+02 / 4/18/2018 / 2d Game 
+-----------------------------------------------
+My Vision for gaming is to take a 2d map from tiled and play it
+-----------------------------------------------
+followups and edits
+***********************************************
+
+
+
